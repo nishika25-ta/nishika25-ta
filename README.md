@@ -14,8 +14,12 @@
 *Meow-vie developer by day, bug hunter by night*  
 *Currently purring over: AI Projects & Web Development*
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=nishika25-ta&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile views" />
+<!-- Visitor Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishika25-ta&label=Profile%20Views&color=f75c7e&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nishika25-ta?label=Followers&style=for-the-badge&color=f75c7e&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/nishika25-ta?label=Stars&style=for-the-badge&color=f75c7e&labelColor=0d1117" alt="stars" />
+</p>
 
 </div>
 
@@ -94,11 +98,10 @@ red_hat_cat.say_hello()
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishika25-ta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff"/>
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika25-ta&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=ffffff"/>
+<a href="https://github.com/nishika25-ta">
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=nishika25-ta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff&ring_color=f75c7e"/>
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=nishika25-ta&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=ffffff&langs_count=8"/>
+</a>
 
 </div>
 
@@ -106,6 +109,31 @@ red_hat_cat.say_hello()
 
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishika25-ta&theme=radical&hide_border=true&background=0d1117&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 💻 Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+<!-- WakaTime stats will appear here after setup -->
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/wakatime?username=nishika25ta&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=ffffff&layout=compact" alt="Coding Stats" />
+
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 📈 Profile Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/nishika25-ta?template=classic&config.timezone=Asia%2FKuala_Lumpur&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&discussions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&config.octicon=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false" alt="Metrics" width="100%"/>
 
 </div>
 
@@ -127,12 +155,12 @@ red_hat_cat.say_hello()
 
 <!-- Darklace-AI Repository Card -->
 <a href="https://github.com/nishika25-ta/Darklace-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishika25-ta&repo=Darklace-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=nishika25-ta&repo=Darklace-AI&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
 </a>
 
 <!-- XAI Repository Card -->
 <a href="https://github.com/nishika25-ta/XAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishika25-ta&repo=XAI&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=nishika25-ta&repo=XAI&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
 </a>
 
 </div>
@@ -143,7 +171,7 @@ red_hat_cat.say_hello()
 
 <!-- Portfolio Repository Card -->
 <a href="https://github.com/nishika25-ta/valentineagam-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishika25-ta&repo=valentineagam-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-rickstaa.vercel.app/api/pin/?username=nishika25-ta&repo=valentineagam-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
 </a>
 
 </div>
@@ -153,6 +181,9 @@ red_hat_cat.say_hello()
 ## 📈 Contribution Graph
 
 <div align="center">
+
+<!-- 3D Contribution Calendar -->
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishika25-ta&theme=github-compact&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" width="100%"/>
