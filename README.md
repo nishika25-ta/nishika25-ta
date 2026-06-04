@@ -158,7 +158,7 @@ Hey there. I'm a full stack developer obsessed with building elegant, performant
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake-ocean.svg"/>
     <img src="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake.svg" alt="snake animation"/>
   </picture>
 </p>
