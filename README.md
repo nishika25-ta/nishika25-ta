@@ -14,6 +14,14 @@
 <a href="https://github.com/nishika25-ta"><img src="https://img.shields.io/github/stars/nishika25-ta?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=github&logoColor=white&label=stars" alt="stars"/></a>
 
 <br/>
+
+<!-- Social Connect -->
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
+<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1a1b26?style=flat-square&logo=x&logoColor=7aa2f7" alt="Twitter"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" alt="Email"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=flat-square&logo=vercel&logoColor=7aa2f7" alt="Portfolio"/></a>
+
+<br/>
 <br/>
 
 </div>
@@ -74,6 +82,15 @@ Currently focused on:
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/nishika25-ta">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nishika25-ta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=nishika25-ta&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+    </picture>
+  </a>
+</div>
+
 <br/>
 
 ## Featured Work
@@ -108,6 +125,12 @@ Currently focused on:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake-ocean.svg"/>
     <img src="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake.svg" alt="snake animation"/>
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000" alt="random dev quote"/>
 </div>
 
 <br/>
