@@ -281,21 +281,6 @@ Applied computer vision and geospatial analysis to large aerial and plantation d
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api?username=nishika25-ta&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;icon_color=8B5CF6" alt="Valentine Agam's GitHub statistics" /></a>
-<a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nishika25-ta&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C4B5FD" alt="Valentine Agam's most-used languages" /></a>
-
-<br />
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nishika25-ta&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=C4B5FD&amp;sideLabels=C4B5FD&amp;dates=7C86A2&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF" alt="Valentine Agam's GitHub contribution streak" /></a>
-
-</div>
-
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -311,19 +296,6 @@ Applied computer vision and geospatial analysis to large aerial and plantation d
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishika25-ta&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=FFFFFF&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Valentine Agam's GitHub contribution activity graph" /></a>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/nishika25-ta/nishika25-ta/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</picture>
 
 </div>
 
