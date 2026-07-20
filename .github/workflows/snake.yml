@@ -17,7 +17,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -26,7 +26,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#0d1117
+            dist/github-contribution-grid-snake-purple.svg?color_snake=#a78bfa&color_dots=#1e1b4b,#312e81,#4c1d95,#6d28d9,#8b5cf6&color_background=#0d1117
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
