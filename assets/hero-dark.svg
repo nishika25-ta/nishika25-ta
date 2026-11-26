@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="318" viewBox="0 0 900 318" role="img" aria-label="Valentine Agam — Software Engineer, Full-Stack and Applied AI/ML">
+  <defs>
+    <clipPath id="hero-clip-dark">
+      <rect width="900" height="318" rx="3"/>
+    </clipPath>
+    <clipPath id="scope-clip-dark">
+      <rect x="634" y="64" width="240" height="172"/>
+    </clipPath>
+    <linearGradient id="metal-sheen-dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#101318"/>
+      <stop offset="100%" stop-color="#0B0D10"/>
+    </linearGradient>
+    <filter id="grain-dark" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#hero-clip-dark)">
+    <!-- CNC-milled anodized chassis -->
+    <rect width="900" height="318" fill="url(#metal-sheen-dark)"/>
+    <rect width="900" height="318" filter="url(#grain-dark)" opacity="0.032"/>
+
+    <!-- Top & bottom recessed rails -->
+    <rect x="0" y="0" width="900" height="38" fill="#0F1216"/>
+    <rect x="0" y="262" width="900" height="56" fill="#0F1216"/>
+
+    <!-- Specular bevel -->
+    <line x1="1" y1="1.5" x2="899" y2="1.5" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1"/>
+
+    <!-- Horizontal hairlines -->
+    <line x1="0" y1="38.5" x2="900" y2="38.5" stroke="#23272F" stroke-width="1"/>
+    <line x1="0" y1="262.5" x2="900" y2="262.5" stroke="#23272F" stroke-width="1"/>
+
+    <!-- Continuous primary vertical axis (y=0..318) -->
+    <line x1="610.5" y1="0" x2="610.5" y2="318" stroke="#23272F" stroke-width="1"/>
+
+    <!-- Secondary vertical dividers -->
+    <line x1="168.5" y1="0" x2="168.5" y2="38" stroke="#23272F" stroke-width="1"/>
+    <line x1="318.5" y1="262" x2="318.5" y2="318" stroke="#23272F" stroke-width="1"/>
+
+    <!-- Top rail metadata -->
+    <rect x="28" y="15.5" width="7" height="7" fill="#FF3B1D">
+      <animate attributeName="opacity" values="1;0.28;1" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="45" y="23" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="500" fill="#F4F5F7">nishika25-ta</text>
+
+    <text x="188" y="23" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#626975">B.Sc. Cognitive Science / CS Minor</text>
+
+    <text x="630" y="23" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9BA2AE">04&#176;23&#8242;N  113&#176;59&#8242;E</text>
+    <text x="872" y="23" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#626975">MIRI, MY</text>
+
+    <!-- Single-line monumental Swiss typography -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.55s" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" begin="0s" fill="freeze"/>
+      <text x="28" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2.3" fill="#F4F5F7">Valentine Agam<tspan fill="#FF3B1D" dx="2">.</tspan></text>
+    </g>
+
+    <text x="30" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#9BA2AE">Software Engineer &#8212; Full-Stack &amp; Applied AI/ML</text>
+    <text x="30" y="235" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#626975">Hospital Miri  /  Co-Founder, Scribear  /  CompTIA Security+</text>
+    <rect x="526" y="224" width="2" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.00s" repeatCount="indefinite"/></rect><rect x="533" y="224" width="3" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.14s" repeatCount="indefinite"/></rect><rect x="541" y="224" width="1" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.28s" repeatCount="indefinite"/></rect><rect x="548" y="224" width="1" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.42s" repeatCount="indefinite"/></rect><rect x="556" y="224" width="2" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.56s" repeatCount="indefinite"/></rect><rect x="563" y="224" width="1" height="14" fill="#5E6674" opacity="0.35"><animate attributeName="opacity" values="0.35;0.95;0.35;0.35" keyTimes="0;0.14;0.3;1" dur="4.2s" begin="0.70s" repeatCount="indefinite"/></rect>
+
+    <!-- Right chamber: Braun / Tektronix precision harmonic calibration oscilloscope -->
+    <rect x="634" y="64" width="240" height="172" fill="none" stroke="#23272F" stroke-width="1"/>
+    <line x1="674" y1="64" x2="674" y2="236" stroke="#191D24" stroke-width="1"/><line x1="714" y1="64" x2="714" y2="236" stroke="#191D24" stroke-width="1"/><line x1="754" y1="64" x2="754" y2="236" stroke="#191D24" stroke-width="1"/><line x1="794" y1="64" x2="794" y2="236" stroke="#191D24" stroke-width="1"/><line x1="834" y1="64" x2="834" y2="236" stroke="#191D24" stroke-width="1"/><line x1="634" y1="106" x2="874" y2="106" stroke="#191D24" stroke-width="1" stroke-dasharray="2 4"/><line x1="634" y1="194" x2="874" y2="194" stroke="#191D24" stroke-width="1" stroke-dasharray="2 4"/>
+    <line x1="634" y1="150" x2="874" y2="150" stroke="#23272F" stroke-width="1"/>
+    <line x1="754" y1="64" x2="754" y2="236" stroke="#23272F" stroke-width="1"/>
+    <line x1="634" y1="144" x2="634" y2="156" stroke="#2E333D" stroke-width="1"/><line x1="646" y1="147" x2="646" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="658" y1="147" x2="658" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="670" y1="147" x2="670" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="682" y1="144" x2="682" y2="156" stroke="#2E333D" stroke-width="1"/><line x1="694" y1="147" x2="694" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="706" y1="147" x2="706" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="718" y1="147" x2="718" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="730" y1="144" x2="730" y2="156" stroke="#2E333D" stroke-width="1"/><line x1="742" y1="147" x2="742" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="754" y1="147" x2="754" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="766" y1="147" x2="766" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="778" y1="144" x2="778" y2="156" stroke="#2E333D" stroke-width="1"/><line x1="790" y1="147" x2="790" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="802" y1="147" x2="802" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="814" y1="147" x2="814" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="826" y1="144" x2="826" y2="156" stroke="#2E333D" stroke-width="1"/><line x1="838" y1="147" x2="838" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="850" y1="147" x2="850" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="862" y1="147" x2="862" y2="153" stroke="#2E333D" stroke-width="1"/><line x1="874" y1="144" x2="874" y2="156" stroke="#2E333D" stroke-width="1"/>
+
+    <!-- Scope corner labels -->
+    <text x="642" y="79" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.5" fill="#626975">ch.01 / harmonic</text>
+    <text x="866" y="79" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.5" fill="#626975">sync</text>
+    <text x="642" y="229" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.5" fill="#626975">phase 0.00</text>
+    <text x="866" y="229" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.5" fill="#FF3B1D">live</text>
+
+    <!-- Seamless scrolling dual harmonic traces -->
+    <g clip-path="url(#scope-clip-dark)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-120 0" dur="7.2s" repeatCount="indefinite"/>
+        <path d="M634.0 131.3 L637.3 131.0 L640.7 131.3 L644.0 132.2 L647.3 133.6 L650.7 135.5 L654.0 137.8 L657.3 140.6 L660.7 143.6 L664.0 146.8 L667.3 150.1 L670.7 153.4 L674.0 156.6 L677.3 159.6 L680.7 162.3 L684.0 164.6 L687.3 166.5 L690.7 167.9 L694.0 168.7 L697.3 169.0 L700.7 168.7 L704.0 167.8 L707.3 166.4 L710.7 164.5 L714.0 162.2 L717.3 159.4 L720.7 156.4 L724.0 153.2 L727.3 149.9 L730.7 146.6 L734.0 143.4 L737.3 140.4 L740.7 137.7 L744.0 135.4 L747.3 133.5 L750.7 132.1 L754.0 131.3 L757.3 131.0 L760.7 131.3 L764.0 132.2 L767.3 133.6 L770.7 135.5 L774.0 137.8 L777.3 140.6 L780.7 143.6 L784.0 146.8 L787.3 150.1 L790.7 153.4 L794.0 156.6 L797.3 159.6 L800.7 162.3 L804.0 164.6 L807.3 166.5 L810.7 167.9 L814.0 168.7 L817.3 169.0 L820.7 168.7 L824.0 167.8 L827.3 166.4 L830.7 164.5 L834.0 162.2 L837.3 159.4 L840.7 156.4 L844.0 153.2 L847.3 149.9 L850.7 146.6 L854.0 143.4 L857.3 140.4 L860.7 137.7 L864.0 135.4 L867.3 133.5 L870.7 132.1 L874.0 131.3 L877.3 131.0 L880.7 131.3 L884.0 132.2 L887.3 133.6 L890.7 135.5 L894.0 137.8 L897.3 140.6 L900.7 143.6 L904.0 146.8 L907.3 150.1 L910.7 153.4 L914.0 156.6 L917.3 159.6 L920.7 162.3 L924.0 164.6 L927.3 166.5 L930.7 167.9 L934.0 168.7 L937.3 169.0 L940.7 168.7 L944.0 167.8 L947.3 166.4 L950.7 164.5 L954.0 162.2 L957.3 159.4 L960.7 156.4 L964.0 153.2 L967.3 149.9 L970.7 146.6 L974.0 143.4 L977.3 140.4 L980.7 137.7 L984.0 135.4 L987.3 133.5 L990.7 132.1 L994.0 131.3" fill="none" stroke="#3E4552" stroke-width="1.1"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-120 0" dur="4.5s" repeatCount="indefinite"/>
+        <path d="M634.0 150.0 L637.3 144.1 L640.7 138.4 L644.0 133.0 L647.3 128.1 L650.7 124.0 L654.0 120.6 L657.3 118.1 L660.7 116.5 L664.0 116.0 L667.3 116.5 L670.7 118.1 L674.0 120.6 L677.3 124.0 L680.7 128.1 L684.0 133.0 L687.3 138.4 L690.7 144.1 L694.0 150.0 L697.3 155.9 L700.7 161.6 L704.0 167.0 L707.3 171.9 L710.7 176.0 L714.0 179.4 L717.3 181.9 L720.7 183.5 L724.0 184.0 L727.3 183.5 L730.7 181.9 L734.0 179.4 L737.3 176.0 L740.7 171.9 L744.0 167.0 L747.3 161.6 L750.7 155.9 L754.0 150.0 L757.3 144.1 L760.7 138.4 L764.0 133.0 L767.3 128.1 L770.7 124.0 L774.0 120.6 L777.3 118.1 L780.7 116.5 L784.0 116.0 L787.3 116.5 L790.7 118.1 L794.0 120.6 L797.3 124.0 L800.7 128.1 L804.0 133.0 L807.3 138.4 L810.7 144.1 L814.0 150.0 L817.3 155.9 L820.7 161.6 L824.0 167.0 L827.3 171.9 L830.7 176.0 L834.0 179.4 L837.3 181.9 L840.7 183.5 L844.0 184.0 L847.3 183.5 L850.7 181.9 L854.0 179.4 L857.3 176.0 L860.7 171.9 L864.0 167.0 L867.3 161.6 L870.7 155.9 L874.0 150.0 L877.3 144.1 L880.7 138.4 L884.0 133.0 L887.3 128.1 L890.7 124.0 L894.0 120.6 L897.3 118.1 L900.7 116.5 L904.0 116.0 L907.3 116.5 L910.7 118.1 L914.0 120.6 L917.3 124.0 L920.7 128.1 L924.0 133.0 L927.3 138.4 L930.7 144.1 L934.0 150.0 L937.3 155.9 L940.7 161.6 L944.0 167.0 L947.3 171.9 L950.7 176.0 L954.0 179.4 L957.3 181.9 L960.7 183.5 L964.0 184.0 L967.3 183.5 L970.7 181.9 L974.0 179.4 L977.3 176.0 L980.7 171.9 L984.0 167.0 L987.3 161.6 L990.7 155.9 L994.0 150.0" fill="none" stroke="#F4F5F7" stroke-width="1.5"/>
+      </g>
+    </g>
+
+    <!-- Live sampling reticle bead locked to center vertical axis x=754 -->
+    <circle cx="754" cy="150" r="5.5" fill="#0B0D10" stroke="#FF3B1D" stroke-width="1.6">
+      <animate attributeName="cy" values="150.0;141.2;133.0;126.0;120.6;117.2;116.0;117.2;120.6;126.0;133.0;141.2;150.0;158.8;167.0;174.0;179.4;182.8;184.0;182.8;179.4;174.0;167.0;158.8;150.0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="754" cy="150" r="2" fill="#FF3B1D">
+      <animate attributeName="cy" values="150.0;141.2;133.0;126.0;120.6;117.2;116.0;117.2;120.6;126.0;133.0;141.2;150.0;158.8;167.0;174.0;179.4;182.8;184.0;182.8;179.4;174.0;167.0;158.8;150.0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Bottom recessed spec rail -->
+    <text x="28" y="282" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#626975">01 / availability</text>
+    <text x="28" y="301" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F5F7">Open to SWE, AI/ML &amp; OSS</text>
+
+    <text x="338" y="282" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#626975">02 / focus</text>
+    <text x="338" y="301" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F5F7">Full-Stack / Enterprise / AI</text>
+
+    <text x="630" y="282" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#626975">03 / currently</text>
+    <text x="630" y="301" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#F4F5F7">Hospital Miri &amp; Scribear</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="317" rx="3" fill="none" stroke="#23272F" stroke-width="1"/>
+</svg>

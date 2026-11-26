@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="278" viewBox="0 0 900 278" role="img" aria-label="Highlights and technical toolkit">
+  <defs>
+    <clipPath id="spec-clip-light">
+      <rect width="900" height="278" rx="3"/>
+    </clipPath>
+    <linearGradient id="spec-sheen-light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FAF9F6"/>
+      <stop offset="100%" stop-color="#F5F4F0"/>
+    </linearGradient>
+    <filter id="spec-grain-light" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#spec-clip-light)">
+    <rect width="900" height="278" fill="url(#spec-sheen-light)"/>
+    <rect width="900" height="278" filter="url(#spec-grain-light)" opacity="0.025"/>
+
+    <!-- Top header rail & mid divider rail -->
+    <rect x="0" y="0" width="900" height="34" fill="#ECEAE3"/>
+    <rect x="0" y="132" width="900" height="34" fill="#ECEAE3"/>
+
+    <!-- Specular bevel -->
+    <line x1="1" y1="1.5" x2="899" y2="1.5" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="1"/>
+
+    <!-- Structural horizontal hairlines -->
+    <line x1="0" y1="34.5" x2="900" y2="34.5" stroke="#D2CEC4" stroke-width="1"/>
+    <line x1="0" y1="132.5" x2="900" y2="132.5" stroke="#D2CEC4" stroke-width="1"/>
+    <line x1="0" y1="166.5" x2="900" y2="166.5" stroke="#D2CEC4" stroke-width="1"/>
+
+    <!-- Gliding precision signal runner along toolkit header hairline -->
+    <line x1="0" y1="166.5" x2="900" y2="166.5" stroke="#DC260A" stroke-width="1.3" stroke-dasharray="56 920" stroke-dashoffset="976" opacity="0.9">
+      <animate attributeName="stroke-dashoffset" from="976" to="0" dur="6s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Band 1: 4 equal highlight dividers (y=34..132) -->
+    <line x1="225.5" y1="34" x2="225.5" y2="132" stroke="#D2CEC4" stroke-width="1"/>
+    <line x1="450.5" y1="34" x2="450.5" y2="132" stroke="#D2CEC4" stroke-width="1"/>
+    <line x1="675.5" y1="34" x2="675.5" y2="132" stroke="#D2CEC4" stroke-width="1"/>
+
+    <!-- Band 2: 2 equal toolkit columns (y=166..278) -->
+    <line x1="450.5" y1="166" x2="450.5" y2="278" stroke="#D2CEC4" stroke-width="1"/>
+
+    <!-- Band 1 header -->
+    <text x="28" y="21" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#0F1012">01 / highlights</text>
+    <text x="872" y="21" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7A7E86">verified record</text>
+
+    <!-- 4 Verified Highlights with sequential cadence datum squares -->
+    <rect x="28" y="51" width="5" height="5" fill="#DC260A">
+      <animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.23;0.28;0.96;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <text x="28" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" fill="#0F1012">92<tspan fill="#DC260A">%</tspan></text>
+    <text x="28" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#4D5159">Aerial anomaly detection</text>
+    <text x="28" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#7A7E86">YOLO / TensorFlow</text>
+
+    <rect x="253" y="51" width="5" height="5" fill="#DC260A" opacity="0.25">
+      <animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.23;0.28;0.96;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="253" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" fill="#0F1012">1.1M</text>
+    <text x="253" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#4D5159">PE malware analysis</text>
+    <text x="253" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#7A7E86">412 features / SHAP</text>
+
+    <rect x="478" y="51" width="5" height="5" fill="#DC260A" opacity="0.25">
+      <animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.23;0.28;0.96;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="478" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" fill="#0F1012">Sec<tspan fill="#DC260A">+</tspan></text>
+    <text x="478" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#4D5159">CompTIA Security+ (2026)</text>
+    <text x="478" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#7A7E86">IBM Python Data Science</text>
+
+    <rect x="703" y="51" width="5" height="5" fill="#DC260A" opacity="0.25">
+      <animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.23;0.28;0.96;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="703" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.6" fill="#0F1012">UNIMAS</text>
+    <text x="703" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#4D5159">Dean&#8217;s List honoree</text>
+    <text x="703" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#7A7E86">Mobile App Dev Award</text>
+
+    <!-- Band 2 header -->
+    <text x="28" y="153" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#0F1012">02 / toolkit</text>
+    <text x="872" y="153" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7A7E86">18 production tools</text>
+
+    <!-- Stepping mechanical selector bar on left edge of toolkit -->
+    <rect x="0" y="180" width="3" height="28" fill="#DC260A">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 0; 0 56; 0 56; 0 0"
+        keyTimes="0; 0.45; 0.52; 0.94; 1"
+        dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Toolkit inner horizontal divider -->
+    <line x1="28" y1="222.5" x2="424" y2="222.5" stroke="#E2DFD7" stroke-width="1"/>
+    <line x1="478" y1="222.5" x2="872" y2="222.5" stroke="#E2DFD7" stroke-width="1"/>
+
+    <!-- Left toolkit rows -->
+    <text x="28" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7A7E86">languages</text>
+    <text x="114" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#0F1012">Python / TypeScript / JS / C++ / Dart</text>
+
+    <text x="28" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7A7E86">frontend</text>
+    <text x="114" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#0F1012">React / Next.js / Tailwind / Flutter</text>
+
+    <!-- Right toolkit rows -->
+    <text x="478" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7A7E86">backend</text>
+    <text x="554" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#0F1012">FastAPI / Flask / Node.js</text>
+
+    <text x="478" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#7A7E86">data / ops</text>
+    <text x="554" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#0F1012">Postgres / Mongo / Docker / K8s / Git / Linux</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="277" rx="3" fill="none" stroke="#D2CEC4" stroke-width="1"/>
+</svg>
